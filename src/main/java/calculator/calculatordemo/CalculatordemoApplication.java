@@ -1,4 +1,3 @@
-
 package calculator.calculatordemo;
 
 import org.springframework.boot.SpringApplication;

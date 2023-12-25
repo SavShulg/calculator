@@ -1,4 +1,3 @@
-
 package calculator.calculatordemo.controller;
 
 import calculator.calculatordemo.CalculatordemoApplication;
@@ -45,3 +44,4 @@ public class calculatorController {
         return num1 + " / " + num2 + " = " + service.divide(num1, num2);
     }
 }
+
